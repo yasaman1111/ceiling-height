@@ -14,7 +14,7 @@ st.set_page_config(page_title="Children's Ceiling Perception", layout="centered"
 st.title("🏠 Predicting Children's Perception of Ceiling Height")
 st.markdown(
     "This web app uses VR experiment data to predict how children (ages 6–8) perceive ceiling heights "
-    "in different architectural spaces. Based on machine learning (ANN) trained on your dataset."
+    "in different architectural spaces. Based on machine learning (ANN) trained on a dataset."
 )
 
 # ---------- Load the dataset ----------
